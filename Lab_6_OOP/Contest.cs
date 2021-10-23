@@ -1,0 +1,170 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab_5_OOP
+{
+    enum Subject
+    {
+        oop,
+        math,
+        lp
+    }
+    struct Marks
+    {
+        public string value;
+    }
+    public abstract class Contest
+    {
+        Subject subject = Subject.math;
+        Marks mark = new Marks();
+        public void SetMark(int x)
+        {
+            mark.value += x;
+            mark.value += ", ";
+        }
+
+
+        private string student;
+        public virtual string _student { get { return student; } set { student = value; } }
+
+        private string subjects;
+        public virtual string _subjects { get { return subjects; } set { subjects = value; } }
+        public abstract bool DoClone();
+
+        public Contest(string Student, string _Subject)
+        {
+            student = Student;
+            subjects = _Subject;
+            
+            switch(_Subject)
+            {
+                case "oop": 
+                    {
+                        subject = Subject.oop;
+                    }
+                    break;
+
+                case "math":
+                    {
+                        subject = Subject.math;
+                    }
+                    break;
+
+                case "lp":
+                    {
+                        subject = Subject.lp;
+                    }
+                    break;
+            }
+        }
+        public Contest(string Student)
+        {
+            student = Student;
+            subjects = null;
+        }
+        public Contest()
+        {
+            student = null;
+            subjects = null;
+        }
+    }
+    public class Test : Contest
+    {
+        private int numbOfQu;
+        public int _numbOfQu { get { return numbOfQu; } set 
+            {
+                if (value > 60)
+                    throw new TestException("Запрещено давать так много вопросов");
+            } }
+        public virtual string student { get { return (_student + " сдает тест"); } set { _student = value; } }
+        public virtual string subjects { get { return ("Тест по : " + _subjects); } set { _subjects = value; } }
+
+        public override bool DoClone()
+        {
+            return false;
+        }
+        public Test(string Student, string Subject, int Number)
+        {
+            _student = Student;
+            _subjects = Subject;
+            _numbOfQu = Number;
+        }
+        public Test()
+        { }
+        public override string ToString()
+        {
+            string rez = this._student + this._subjects + this._numbOfQu;
+            return rez;
+        }
+    }
+    public class Exam : Contest, IClonable
+    {
+        private int attemp;
+        public int _attemp { get { return attemp; } set 
+            {
+                if (value > 3)
+                    throw new ExamException("Попытка сдачи экзамена не может быть больше 3 ",value);
+            } }
+        public override bool DoClone()
+        {
+            return true;
+        }
+        public Exam(string Student, string Subject, int Number)
+        {
+            _student = Student;
+            _subjects = Subject;
+            _attemp = Number;
+        }
+        public override string ToString()
+        {
+            string rez = this._student + this._subjects + this._attemp;
+            return rez;
+        }
+    }
+    class FinalExam : Exam
+    {
+        static readonly int numberOfExams = 4;
+        public FinalExam(string Student, string Subject, int Number, int Numb) : base(Student, Subject, Number) { }
+        public override string ToString()
+        {
+            string rez = this._student + this._subjects + numberOfExams;
+            return rez;
+        }
+    }
+    sealed partial class Question : Test
+    {
+        private int id;
+        public int _id { get { return id; } set { id = value; } }
+
+        public Question(string Student, string Subject, int Number) : base(Student, Subject, Number) { }
+        public Question() : base()
+        {
+            id = 123;
+        }
+        
+    }
+
+    interface IClonable
+    {
+        bool DoClone();
+    }
+
+    public class Printer
+    {
+        public string IAmPrinting(Contest someobj)
+        {
+            return someobj.ToString();
+        }
+        public string IAmPrinting(Test someobj)
+        {
+            return someobj.ToString();
+        }
+        public string IAmPrinting(Exam someobj)
+        {
+            return someobj.ToString();
+        }
+    }
+}
