@@ -167,14 +167,10 @@ namespace Lab_8_OOP
             str = str.Replace("?", string.Empty);
             return str;
         }
-        public static string AddToString(string str)
-        {
-            return str += "char";
-        }
-        public static string RemoveSpase(string str)
-        {
-            return str.Replace(" ", string.Empty);
-        }
+        public static string AddToString(string str) =>  str += "char";
+        
+        public static string RemoveSpase(string str) => str.Replace(" ", string.Empty);
+        
         public static string Upper(string str)
         {
             for (int i = 0; i < str.Length; i++)
