@@ -1,0 +1,883 @@
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162936680448
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 4
+
+Files 10
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162937737216
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 4
+
+Files 10
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162932891648
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 10
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162933555200
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 10
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162932002816
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 10
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162928488448
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162930913280
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162928414720
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162927788032
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162929840128
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162926374912
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 12
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162925445120
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162924191744
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 12
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162926538752
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162924953600
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 12
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162909954048
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162910162944
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 5
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162916372480
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162912501760
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 12
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162910453760
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 12
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162909736960
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 12
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162911555584
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162907611136
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162909474816
+Volume label C:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162859270144
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162862493696
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+Dir creation time 20.11.2021 08:30:16
+
+Dir 6
+
+Files 11
+
+Parent dir repos
+source
+polza
+Users
+C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162861129728
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+Dir name C:\Users\polza\source\repos\Lab_12_OOP
+
+Time creation 20.11.2021 08:44:03
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162860425216
+Volume label C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162858655744
+Volume label C:\
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162857713664
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162856198144
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162855141376
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162857005056
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162854920192
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+$Session - 20.11.2021 00:00:00$
+Disk Name C:\
+Disk space 510770802688
+Disk free space 162853371904
+Volume label C:\
+
+
+Space 4
+Extension .txt
+Name Path.txt
+
+
+$Session - 20.11.2021 00:00:00$

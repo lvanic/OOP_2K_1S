@@ -1,0 +1,20 @@
+Directories: 
+/Users/polza/source/repos/Lab_12_OOP/.vs
+/Users/polza/source/repos/Lab_12_OOP/bin
+/Users/polza/source/repos/Lab_12_OOP/Inspect
+/Users/polza/source/repos/Lab_12_OOP/Lab_12_OOP
+/Users/polza/source/repos/Lab_12_OOP/obj
+/Users/polza/source/repos/Lab_12_OOP/open
+Files: 
+/Users/polza/source/repos/Lab_12_OOP/Lab_12_OOP.csproj
+/Users/polza/source/repos/Lab_12_OOP/Lab_12_OOP.sln
+/Users/polza/source/repos/Lab_12_OOP/Log.txt
+/Users/polza/source/repos/Lab_12_OOP/newName.txt
+/Users/polza/source/repos/Lab_12_OOP/Path.txt
+/Users/polza/source/repos/Lab_12_OOP/Program.cs
+/Users/polza/source/repos/Lab_12_OOP/XXXDirInfo.cs
+/Users/polza/source/repos/Lab_12_OOP/XXXDiskInfo.cs
+/Users/polza/source/repos/Lab_12_OOP/XXXFileInfo.cs
+/Users/polza/source/repos/Lab_12_OOP/XXXFileManager.cs
+/Users/polza/source/repos/Lab_12_OOP/XXXLog.cs
+/Users/polza/source/repos/Lab_12_OOP/Новый текстовый документ.js
